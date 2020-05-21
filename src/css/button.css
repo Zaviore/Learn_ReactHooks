@@ -10,8 +10,16 @@
 }
 .btn--primary {
   color: white;
-  background-color: tomato;
+  background-color: rgb(57, 207, 82);
 }
 .btn--primary:hover {
-  background-color: rgb(235, 82, 55);
+  background-color: rgb(33, 160, 54);
+}
+
+.btn--dagger {
+  color: white;
+  background-color: rgb(219, 65, 38);
+}
+.btn--dagger:hover {
+  background-color: rgb(88, 26, 15);
 }
